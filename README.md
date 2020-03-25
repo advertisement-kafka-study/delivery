@@ -1,6 +1,10 @@
 # Overview
 
-This is a repository represents the Globo Television Advertisement.
+This is a repository represents the Delivery at the Advertisement Architecture.
+
+# Architecture
+
+![alt text](advertisement.png "Logo Title Text 1")
 
 ## Schema
 
