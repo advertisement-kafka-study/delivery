@@ -1,4 +1,4 @@
-package com.example.globo
+package com.example.delivery
 
 import com.example.advertisement.Advertisement
 import org.apache.kafka.clients.consumer.ConsumerRecord
