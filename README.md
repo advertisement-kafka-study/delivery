@@ -27,7 +27,3 @@ After that, run the docker-compose:
 [Apache Kafka](https://kafka.apache.org/)
 
 [Apache Avro](https://avro.apache.org/)
-
-# References
-
-[Guide to Spring Cloud Stream with Kafka, Apache Avro and Confluent Schema Registry](https://www.baeldung.com/spring-cloud-stream-kafka-avro-confluent)
