@@ -4,7 +4,7 @@ This is a repository represents the Delivery at the Advertisement Architecture.
 
 # Architecture
 
-![alt text](advertisement.png "Architecture")
+![alt text](https://raw.githubusercontent.com/advertisement-kafka-study/delivery/master/advertisement.png "Architecture")
 
 ## Schema
 
