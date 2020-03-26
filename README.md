@@ -10,11 +10,13 @@ This is a repository represents the Delivery at the Advertisement Architecture.
 
 All the schemas are found in `/apache-avro-producer/src/main/avro`
 
-## Set up
+## Setup
 
-Start the kafka and kafka schema registry, using the command below:
+To start the Kafka Stack, first use need to download the [kafka-stack-docker-compose](https://github.com/advertisement-kafka-study/kafka-stack-docker-compose)
 
-`docker-compose up`
+After that, run the docker-compose:
+
+`docker-compose -f full-stack.yml up`
 
 # Stack
 

@@ -4,8 +4,12 @@
     "namespace": "com.example.advertisement",
     "fields": [
       {
-          "name": "name",
-          "type": "string"
+        "name": "name",
+        "type": "string"
+      },
+      {
+        "name" : "id",
+        "type" : "long"
       }
     ]
 }
