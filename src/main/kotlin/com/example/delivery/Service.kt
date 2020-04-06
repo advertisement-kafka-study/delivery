@@ -1,6 +1,5 @@
 package com.example.delivery
 
-import com.example.advertisement.Advertisement
 import org.apache.kafka.clients.consumer.ConsumerRecord
 import org.slf4j.LoggerFactory
 import org.springframework.kafka.annotation.KafkaListener
