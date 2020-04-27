@@ -1,3 +1,3 @@
 package com.example.delivery
 
-data class Advertisement(val id: String, val name: String)
+data class Advertisement(val id: String, val content: String, val callback: String)
